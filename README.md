@@ -1,4 +1,4 @@
-# UmbaTechnicalTest
+# UmbaTechnicalTest - By Martin
 
 App to show popular and upcoming movies from [https://www.themoviedb.org/](https://www.themoviedb.org/) api, also, user can see movie details
 
